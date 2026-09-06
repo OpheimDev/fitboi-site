@@ -8,7 +8,7 @@ permalink: /privacy/
 
 _Last updated: 5 September 2026_
 
-FitBoi is a workout planner made by Steffen Opheim. This policy explains what data the app handles and where it goes.
+FitBoi is an independently developed workout planner. This policy explains what data the app handles and where it goes.
 
 ## What FitBoi stores
 Your profile (goal, experience, equipment, bodyweight), your workouts (exercises, sets, weights, reps, effort ratings), daily check-ins (sleep, soreness), bodyweight entries and achievements.
